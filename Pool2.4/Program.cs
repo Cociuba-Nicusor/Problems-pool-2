@@ -10,7 +10,7 @@ namespace Pool2._4
             //Se da o secventa de n numere. Determinati pe ce pozitie se afla in secventa un numara a.
             //Se considera ca primul element din secventa este pe pozitia zero.
             //Daca numarul nu se afla in secventa raspunsul va fi -1. 
-            int n, i, a,m=0;
+            int n, i, a,m=0,y=0;
             Console.WriteLine("Introduceti numarul n:");
             n = int.Parse(Console.ReadLine());
             Console.WriteLine("Introduceti numarul cautat:");
@@ -22,10 +22,11 @@ namespace Pool2._4
                 Console.WriteLine($"{x}  ");
                 if (x == a)
                     m = 1;
+                y = i;
             }
             if (m == 1)
                 {
-                    Console.WriteLine($"Numarul {a} se afla pe pozitia {i}.");
+                    Console.WriteLine($"Numarul {a} se afla pe pozitia {y}.");
                 }
             
                 else

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.4\\Pool2.4.csproj": {}
+    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.5\\Pool2.5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.4\\Pool2.4.csproj": {
+    "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.5\\Pool2.5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.4\\Pool2.4.csproj",
-        "projectName": "Pool2.4",
-        "projectPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.4\\Pool2.4.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.5\\Pool2.5.csproj",
+        "projectName": "Pool2.5",
+        "projectPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.5\\Pool2.5.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.4\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\Source\\Repos\\Cociuba-Nicusor\\Problems-pool-2\\Pool2.5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
