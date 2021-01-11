@@ -18,24 +18,16 @@ namespace Pool2._4
             Console.WriteLine("Secventa este:");
             for(i=0;i<n;i++)
             {
-                int x = rnd.Next(10);
+                int x = rnd.Next(5);
                 Console.WriteLine($"{x}  ");
                 if (x == a)
-                    m = 1;
-                y = i;
-            }
-            if (m == 1)
-                {
-                    Console.WriteLine($"Numarul {a} se afla pe pozitia {y}.");
-                }
-            
-                else
-                {
-                    Console.WriteLine($"Raspuns {-1}.");
+                    Console.WriteLine($"Numarul {a} se afla pe pozitia {i}.");
                 }
 
             
-            Console.ReadKey();
+
+
+
 
         }
     }

@@ -10,3 +10,4 @@ C:\Users\Andrei\source\repos\Cociuba-Nicusor\Problems-pool-2\Pool2.4\obj\Debug\n
 C:\Users\Andrei\source\repos\Cociuba-Nicusor\Problems-pool-2\Pool2.4\obj\Debug\netcoreapp3.1\Pool2.4.dll
 C:\Users\Andrei\source\repos\Cociuba-Nicusor\Problems-pool-2\Pool2.4\obj\Debug\netcoreapp3.1\Pool2.4.pdb
 C:\Users\Andrei\source\repos\Cociuba-Nicusor\Problems-pool-2\Pool2.4\obj\Debug\netcoreapp3.1\Pool2.4.genruntimeconfig.cache
+C:\Users\Andrei\Source\Repos\Cociuba-Nicusor\Problems-pool-2\Pool2.4\obj\Debug\netcoreapp3.1\Pool2.4.csprojAssemblyReference.cache
